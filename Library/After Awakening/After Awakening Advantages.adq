@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="US-ASCII" ?>
+<advantage_list id="96d2fe4b-fed5-423b-a3cf-6dda57005dac" version="1">
+	<advantage version="2">
+		<name>Changing</name>
+		<type>Physical</type>
+		<levels>10</levels>
+		<base_points>50</base_points>
+		<points_per_level>1</points_per_level>
+		<categories>
+			<category>Dream Power</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Dream Snatch</name>
+		<type>Physical</type>
+		<base_points>120</base_points>
+		<categories>
+			<category>Dream Power</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Dream Jump</name>
+		<type>Physical</type>
+		<base_points>120</base_points>
+		<categories>
+			<category>Dream Power</category>
+		</categories>
+	</advantage>
+</advantage_list>
